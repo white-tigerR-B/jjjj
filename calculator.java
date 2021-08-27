@@ -2,6 +2,8 @@ class calculator
 {
    public static void main(String []args)
 {
+     SYSY
+
      int a=Integer.parseInt(args[0]);
      int b=Integer.parseInt(args[1]);
      System.out.println("hey I am a calculator");
